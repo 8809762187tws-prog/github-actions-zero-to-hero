@@ -1,1 +1,16 @@
+name: Prateek
+Location: Patna
+dob: 15/03/89
+hobbies:
+    - testing
+    - movies
+    - workout
+tools: [a,b,c,d]
+experiance:
+    - devops
+        - aws
+        -docker
+            -yaml
+            
+
 
